@@ -1,0 +1,32 @@
+body{
+    margin: 5%;
+    background-color: dimgray;
+    
+}
+section{
+    height: 500px;
+    
+}
+.half-width{
+    width: 40%;
+   float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+p{
+    font-size: 30px;
+    color: blue;
+    
+}
+.top-banner{
+    background-image: url("images/top-banner.jpg")
+}
+.butter-area{
+    background-image: url("images/top-banner.jpg");
+}
+.pata{
+    background-image: url("images/top-banner.jpg");
+}
+h1{
+    text-align: center;
+}
